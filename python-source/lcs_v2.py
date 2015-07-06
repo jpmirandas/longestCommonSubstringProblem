@@ -11,7 +11,7 @@ lines = []
 
 lines = [line.rstrip('\n') for line in open('sequences.txt')]
 
-print(lines)
+#print(lines)
 
 def long_substr(data):
     substr = ''
